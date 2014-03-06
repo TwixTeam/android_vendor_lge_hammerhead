@@ -39,3 +39,4 @@ PRODUCT_PACKAGES += \
     UpdateSetting
 
 $(call inherit-product, vendor/lge/hammerhead/hammerhead-vendor-blobs.mk)
+$(call inherit-product, vendor/twixkat/device-partial.mk)
