@@ -16,4 +16,4 @@
 
 USE_CAMERA_STUB := false
 
--include vendor/twixkat/BoardConfingPartial.mk
+-include vendor/hazy/BoardConfingPartial.mk
